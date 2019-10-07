@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyPostApplication</string>
+    <string name="tab_text_all">All</string>
+    <string name="tab_text_fav">Favorites</string>
+</resources>
